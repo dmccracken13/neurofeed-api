@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "email": "neo@matrix.net",
+      "password": "imtheone",
+      "name": "Thomas Anderson",
+      "id": 1
+    }
+  ],
+  "documentaries": [
+    {
+      "id": 1,
+      "apiId": "294959",
+      "userId": 1,
+      "watchStatusId": 3,
+      "rating": "5 Stars",
+      "review": "",
+      "isMovie": true
+    },
+    {
+        "id": 2,
+        "apiId": "682110",
+        "userId": 1,
+        "watchStatusId": 3,
+        "rating": "5 Stars",
+        "review": "",
+        "isMovie": true
+      }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "adventure"
+    },
+    {
+        "id": 2,
+        "userId": 1,
+        "name": "nature"
+      },
+      {
+        "id": 3,
+        "userId": 1,
+        "name": "science"
+      }
+  ],
+  "docCategories": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "documentaryId": 1
+    },
+    {
+        "id": 2,
+        "categoryId": 2,
+        "documentaryId": 1
+      },
+      {
+        "id": 3,
+        "categoryId": 3,
+        "documentaryId": 2
+      }
+  ],
+  "watchStatuses": [
+    {
+      "id": 1,
+      "name": "Want To Watch"
+    },
+    {
+        "id": 2,
+        "name": "Watching"
+      },
+      {
+        "id": 3,
+        "name": "Watched"
+      }
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "userId": 0,
+      "followeeId": 0
+    }
+  ]
+}
