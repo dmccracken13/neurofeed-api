@@ -25,6 +25,15 @@
         "rating": "5 Stars",
         "review": "",
         "isMovie": true
+      },
+      {
+        "id": 3,
+        "apiId": "432976",
+        "userId": 1,
+        "watchStatusId": 1,
+        "rating": "",
+        "review": "",
+        "isMovie": true
       }
   ],
   "categories": [
