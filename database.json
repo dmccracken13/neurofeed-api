@@ -79,96 +79,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/kKYMrf2iwyyBYbGYnzPVWV8LXUQ.jpg",
       "synapsis": "Wellman Santee (Dolph Lundgren) a former race car driver, whose livelihood is transporting exotic stolen super cars, is involved, with his partner Eddie, in shoot out, resulting in the deaths of his friend and a highway cop. Santee is framed for the cop's murder and jailed in a maximum security prison. A few months later, Santee breaks out after narrowly escaping an attempt on his life. He reaches a local diner where he steals a car, abducts the owner, Rita and flees, completely unaware that his hostage is a deputy sheriff. A massive manhunt ensues, spearheaded by Lt. Severance a tough, obessive cop. Santee leads the detective and his men on a dramatic high speed chase, from the desert wilderness to the streets of downtown Los Angeles. Santee's out to clear his name and when it comes to getting even, he's taking revenge into overdrive.",
       "id": 8
-    },
-    {
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "rating": "4",
-      "review": "",
-      "categoryId": "1",
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "id": 9
-    },
-    {
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "rating": "4",
-      "review": "",
-      "categoryId": "1",
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "id": 10
-    },
-    {
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "rating": "4",
-      "review": "",
-      "categoryId": "1",
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "id": 11
-    },
-    {
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "rating": "4",
-      "review": "",
-      "categoryId": "1",
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "id": 12
-    },
-    {
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "rating": "4",
-      "review": "",
-      "categoryId": "1",
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "id": 13
-    },
-    {
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "rating": "4",
-      "review": "",
-      "categoryId": "1",
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "id": 14
-    },
-    {
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "rating": "4",
-      "review": "",
-      "categoryId": "1",
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "rating": "4",
-      "review": "",
-      "id": 16
-    },
-    {
-      "userId": 1,
-      "title": "The Art of Flight",
-      "watchStatusId": 3,
-      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
-      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
-      "rating": "5",
-      "review": "",
-      "id": 17
     }
   ],
   "categories": [
@@ -213,31 +123,6 @@
       "categoryId": 1,
       "documentaryId": null,
       "id": 5
-    },
-    {
-      "categoryId": 1,
-      "documentaryId": null,
-      "id": 6
-    },
-    {
-      "categoryId": 1,
-      "documentaryId": null,
-      "id": 7
-    },
-    {
-      "categoryId": 1,
-      "documentaryId": null,
-      "id": 8
-    },
-    {
-      "categoryId": 1,
-      "documentaryId": null,
-      "id": 9
-    },
-    {
-      "categoryId": 1,
-      "documentaryId": 9,
-      "id": 10
     }
   ],
   "watchStatuses": [
