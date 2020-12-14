@@ -12,29 +12,164 @@
       "id": 1,
       "apiId": "294959",
       "userId": 1,
+      "title": "Valley Uprising",
       "watchStatusId": 3,
+      "poster": "/oeiYsWFa3YtSwy2ovyviSJGZyRO.jpg",
+      "synapsis": "In the shady campgrounds of Yosemite valley, climbers carved out a counterculture lifestyle of dumpster-diving and wild parties that clashed with the conservative values of the National Park Service. And up on the walls, generation after generation has pushed the limits of climbing, vying amongst each other for supremacy on Yosemite's cliffs. \"Valley Uprising\" is the riveting, unforgettable tale of this bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
       "rating": "5 Stars",
       "review": "",
       "isMovie": true
     },
     {
-        "id": 2,
-        "apiId": "682110",
-        "userId": 1,
-        "watchStatusId": 3,
-        "rating": "5 Stars",
-        "review": "",
-        "isMovie": true
-      },
-      {
-        "id": 3,
-        "apiId": "432976",
-        "userId": 1,
-        "watchStatusId": 1,
-        "rating": "",
-        "review": "",
-        "isMovie": true
-      }
+      "id": 2,
+      "apiId": "682110",
+      "userId": 1,
+      "title": "My Octopus Teacher",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/u96gR99ZUtdmE3bAzASnjZqzioR.jpg",
+      "synapsis": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+      "rating": "5 Stars",
+      "review": "",
+      "isMovie": true
+    },
+    {
+      "id": 3,
+      "apiId": "432976",
+      "userId": 1,
+      "title": "Icarus",
+      "watchStatusId": 1,
+      "poster": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+      "synapsis": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+      "rating": "",
+      "review": "",
+      "isMovie": true
+    },
+    {
+      "title": "Fantastic Fungi",
+      "watchStatusId": "3",
+      "rating": "5",
+      "review": "",
+      "docForm_categories": "2",
+      "id": 5
+    },
+    {
+      "title": "Fantastic Fungi",
+      "watchStatusId": "1",
+      "rating": "3",
+      "review": "",
+      "docForm_categories": "2",
+      "id": 6
+    },
+    {
+      "title": "Joshua Tree",
+      "watchStatusId": "1",
+      "rating": "3",
+      "review": "",
+      "docForm_categories": "2",
+      "poster": "https://image.tmdb.org/t/p/w500/kKYMrf2iwyyBYbGYnzPVWV8LXUQ.jpg",
+      "synapsis": "Wellman Santee (Dolph Lundgren) a former race car driver, whose livelihood is transporting exotic stolen super cars, is involved, with his partner Eddie, in shoot out, resulting in the deaths of his friend and a highway cop. Santee is framed for the cop's murder and jailed in a maximum security prison. A few months later, Santee breaks out after narrowly escaping an attempt on his life. He reaches a local diner where he steals a car, abducts the owner, Rita and flees, completely unaware that his hostage is a deputy sheriff. A massive manhunt ensues, spearheaded by Lt. Severance a tough, obessive cop. Santee leads the detective and his men on a dramatic high speed chase, from the desert wilderness to the streets of downtown Los Angeles. Santee's out to clear his name and when it comes to getting even, he's taking revenge into overdrive.",
+      "id": 7
+    },
+    {
+      "title": "Joshua Tree",
+      "watchStatusId": 1,
+      "rating": "3",
+      "review": "",
+      "docForm_categories": "2",
+      "poster": "https://image.tmdb.org/t/p/w500/kKYMrf2iwyyBYbGYnzPVWV8LXUQ.jpg",
+      "synapsis": "Wellman Santee (Dolph Lundgren) a former race car driver, whose livelihood is transporting exotic stolen super cars, is involved, with his partner Eddie, in shoot out, resulting in the deaths of his friend and a highway cop. Santee is framed for the cop's murder and jailed in a maximum security prison. A few months later, Santee breaks out after narrowly escaping an attempt on his life. He reaches a local diner where he steals a car, abducts the owner, Rita and flees, completely unaware that his hostage is a deputy sheriff. A massive manhunt ensues, spearheaded by Lt. Severance a tough, obessive cop. Santee leads the detective and his men on a dramatic high speed chase, from the desert wilderness to the streets of downtown Los Angeles. Santee's out to clear his name and when it comes to getting even, he's taking revenge into overdrive.",
+      "id": 8
+    },
+    {
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "rating": "4",
+      "review": "",
+      "categoryId": "1",
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "id": 9
+    },
+    {
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "rating": "4",
+      "review": "",
+      "categoryId": "1",
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "id": 10
+    },
+    {
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "rating": "4",
+      "review": "",
+      "categoryId": "1",
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "id": 11
+    },
+    {
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "rating": "4",
+      "review": "",
+      "categoryId": "1",
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "id": 12
+    },
+    {
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "rating": "4",
+      "review": "",
+      "categoryId": "1",
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "id": 13
+    },
+    {
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "rating": "4",
+      "review": "",
+      "categoryId": "1",
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "id": 14
+    },
+    {
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "rating": "4",
+      "review": "",
+      "categoryId": "1",
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "rating": "4",
+      "review": "",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "rating": "5",
+      "review": "",
+      "id": 17
+    }
   ],
   "categories": [
     {
@@ -43,15 +178,15 @@
       "name": "adventure"
     },
     {
-        "id": 2,
-        "userId": 1,
-        "name": "nature"
-      },
-      {
-        "id": 3,
-        "userId": 1,
-        "name": "science"
-      }
+      "id": 2,
+      "userId": 1,
+      "name": "nature"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "science"
+    }
   ],
   "docCategories": [
     {
@@ -60,15 +195,50 @@
       "documentaryId": 1
     },
     {
-        "id": 2,
-        "categoryId": 2,
-        "documentaryId": 1
-      },
-      {
-        "id": 3,
-        "categoryId": 3,
-        "documentaryId": 2
-      }
+      "id": 2,
+      "categoryId": 2,
+      "documentaryId": 1
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "documentaryId": 2
+    },
+    {
+      "categoryId": 1,
+      "documentaryId": null,
+      "id": 4
+    },
+    {
+      "categoryId": 1,
+      "documentaryId": null,
+      "id": 5
+    },
+    {
+      "categoryId": 1,
+      "documentaryId": null,
+      "id": 6
+    },
+    {
+      "categoryId": 1,
+      "documentaryId": null,
+      "id": 7
+    },
+    {
+      "categoryId": 1,
+      "documentaryId": null,
+      "id": 8
+    },
+    {
+      "categoryId": 1,
+      "documentaryId": null,
+      "id": 9
+    },
+    {
+      "categoryId": 1,
+      "documentaryId": 9,
+      "id": 10
+    }
   ],
   "watchStatuses": [
     {
@@ -76,13 +246,13 @@
       "name": "Want To Watch"
     },
     {
-        "id": 2,
-        "name": "Watching"
-      },
-      {
-        "id": 3,
-        "name": "Watched"
-      }
+      "id": 2,
+      "name": "Watching"
+    },
+    {
+      "id": 3,
+      "name": "Watched"
+    }
   ],
   "friends": [
     {
