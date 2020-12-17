@@ -5,6 +5,12 @@
       "password": "imtheone",
       "name": "Thomas Anderson",
       "id": 1
+    },
+    {
+      "email": "mr.robot@hacker.com",
+      "password": "fsociety",
+      "name": "Elliot Alderson",
+      "id": 2
     }
   ],
   "documentaries": [
@@ -14,7 +20,7 @@
       "watchStatusId": 3,
       "poster": "https://image.tmdb.org/t/p/w500/3MHs9BrHt6ZjlPvaL4CP1ULYV2Z.jpg",
       "synapsis": "As the Large Hadron Collider is about to be launched for the first time, physicists are on the cusp of the greatest scientific discovery of all time -- or perhaps their greatest failure.",
-      "rating": "2",
+      "rating": "2 Stars",
       "review": "",
       "id": 18
     },
@@ -24,9 +30,119 @@
       "watchStatusId": 3,
       "poster": "https://image.tmdb.org/t/p/w500/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
       "synapsis": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
-      "rating": "5",
+      "rating": "5 Stars",
       "review": "Amazing doc about the history of the 13th amendment,",
       "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Fungi",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/giIGfFqirPk3I2azp8Ow98oOnzG.jpg",
+      "synapsis": "A vivid journey into the mysterious subterranean world of mycelium and its fruit— the mushroom. A story that begins 3.5 billion years ago, fungi makes the soil that supports life, connecting vast systems of roots from plants and trees all over the planet, like an underground Internet.  Through the eyes of renowned mycologist Paul Stamets, professor of forest ecology Suzanne Simard, best selling author Michael Pollan, food naturalist Eugenia Bone and others, we experience the power, beauty and complexity of the fungi kingdom.",
+      "rating": "5 Stars",
+      "review": "",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Icarus",
+      "watchStatusId": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+      "synapsis": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+      "rating": "",
+      "review": "",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "The Magic Pill",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/yXoG0GhT2Re2nvRdNaMqWSh31Re.jpg",
+      "synapsis": "Doctors, scientists and chefs around the globe combat illness with dietary changes, believing fat should be embraced as a source of fuel.",
+      "rating": "4 Stars",
+      "review": "",
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "title": "Valley Uprising",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/oeiYsWFa3YtSwy2ovyviSJGZyRO.jpg",
+      "synapsis": "In the shady campgrounds of Yosemite valley, climbers carved out a counterculture lifestyle of dumpster-diving and wild parties that clashed with the conservative values of the National Park Service. And up on the walls, generation after generation has pushed the limits of climbing, vying amongst each other for supremacy on Yosemite's cliffs. \"Valley Uprising\" is the riveting, unforgettable tale of this bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
+      "rating": "5 Stars",
+      "review": "",
+      "id": 28
+    },
+    {
+      "userId": 1,
+      "title": "My Octopus Teacher",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/u96gR99ZUtdmE3bAzASnjZqzioR.jpg",
+      "synapsis": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+      "rating": "5 Stars",
+      "review": "",
+      "id": 29
+    },
+    {
+      "userId": 2,
+      "title": "Sky Ladder: The Art of Cai Guo-Qiang",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/bYE9EZbplP8gbqaT1w9wsSW4n5c.jpg",
+      "synapsis": "Known for his spectacular pyrotechnic displays, Chinese artist Cai Guo-Qiang creates his most ambitious project yet: Sky Ladder, a visionary, explosive event that he pulls off in his hometown in China after 20 years of failed attempts.",
+      "rating": "2 Stars",
+      "review": "",
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "title": "The Art of Flight",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/3PQbLiagmJE1hwczEVPlAFj4HQ6.jpg",
+      "synapsis": "Iconic snowboarder Travis Rice and friends redefine what is possible in the mountains. Experience the highs, as new tricks are landed and new zones opened, alongside the lows, where avalanches, accidents, and wrong-turns strike.",
+      "rating": "5 Stars",
+      "review": "",
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "title": "David Attenborough: A Life on Our Planet",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/mxdqWYOm3KnQthzJdEwtWzJtc06.jpg",
+      "synapsis": "He knows our natural world like no other, and there’s never been a more urgent time to hear his story and vision for our future.",
+      "rating": "5 Stars",
+      "review": "",
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "title": "Social Animals",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/45QgvkuwZF8mffzDcK3wZSpNpA0.jpg",
+      "synapsis": "Determined not to turn into her parents, or be drawn into any relationship longer than a one night stand, Zoe constantly struggles with her failing business and love life. Then she falls in love for the first time with Paul. But there's one problem: Paul is married.",
+      "rating": "5 Stars",
+      "review": "",
+      "id": 35
+    },
+    {
+      "userId": 2,
+      "title": "Valley Uprising",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/oeiYsWFa3YtSwy2ovyviSJGZyRO.jpg",
+      "synapsis": "In the shady campgrounds of Yosemite valley, climbers carved out a counterculture lifestyle of dumpster-diving and wild parties that clashed with the conservative values of the National Park Service. And up on the walls, generation after generation has pushed the limits of climbing, vying amongst each other for supremacy on Yosemite's cliffs. \"Valley Uprising\" is the riveting, unforgettable tale of this bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
+      "rating": "5 Stars",
+      "review": "Love this movie!",
+      "id": 36
+    },
+    {
+      "userId": 2,
+      "title": "My Octopus Teacher",
+      "watchStatusId": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/u96gR99ZUtdmE3bAzASnjZqzioR.jpg",
+      "synapsis": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+      "rating": "",
+      "review": "",
+      "id": 37
     }
   ],
   "categories": [
@@ -44,6 +160,56 @@
       "id": 3,
       "userId": 1,
       "name": "science"
+    },
+    {
+      "userId": 1,
+      "name": "history",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "name": "outdoors",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "name": "cuisine",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "name": "art",
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "name": "space",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "name": "culture",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "name": "space",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "name": "art",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "name": "history",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "name": "science",
+      "id": 13
     }
   ],
   "docCategories": [
@@ -56,6 +222,61 @@
       "documentaryId": 23,
       "categoryId": 3,
       "id": 15
+    },
+    {
+      "documentaryId": 24,
+      "categoryId": 2,
+      "id": 16
+    },
+    {
+      "documentaryId": 25,
+      "categoryId": 3,
+      "id": 17
+    },
+    {
+      "documentaryId": 26,
+      "categoryId": 3,
+      "id": 18
+    },
+    {
+      "documentaryId": 28,
+      "categoryId": 1,
+      "id": 20
+    },
+    {
+      "documentaryId": 29,
+      "categoryId": 2,
+      "id": 21
+    },
+    {
+      "documentaryId": 30,
+      "categoryId": 7,
+      "id": 22
+    },
+    {
+      "documentaryId": 33,
+      "categoryId": 1,
+      "id": 24
+    },
+    {
+      "documentaryId": 34,
+      "categoryId": 2,
+      "id": 25
+    },
+    {
+      "documentaryId": 35,
+      "categoryId": 9,
+      "id": 26
+    },
+    {
+      "documentaryId": 36,
+      "categoryId": 5,
+      "id": 27
+    },
+    {
+      "documentaryId": 37,
+      "categoryId": 13,
+      "id": 28
     }
   ],
   "watchStatuses": [
@@ -72,11 +293,5 @@
       "name": "Watched"
     }
   ],
-  "friends": [
-    {
-      "id": 0,
-      "userId": 0,
-      "followeeId": 0
-    }
-  ]
+  "friends": []
 }
