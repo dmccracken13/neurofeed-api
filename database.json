@@ -11,6 +11,12 @@
       "password": "fsociety",
       "name": "Elliot Alderson",
       "id": 2
+    },
+    {
+      "email": "jisie@cult.com",
+      "password": "thecult",
+      "name": "Jisie David",
+      "id": 3
     }
   ],
   "documentaries": [
@@ -31,7 +37,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
       "synapsis": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
       "rating": "5 Stars",
-      "review": "Amazing doc about the history of the 13th amendment,",
+      "review": "Very informative",
       "id": 23
     },
     {
@@ -46,16 +52,6 @@
     },
     {
       "userId": 1,
-      "title": "Icarus",
-      "watchStatusId": 1,
-      "poster": "https://image.tmdb.org/t/p/w500/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
-      "synapsis": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
-      "rating": "",
-      "review": "",
-      "id": 25
-    },
-    {
-      "userId": 1,
       "title": "The Magic Pill",
       "watchStatusId": 3,
       "poster": "https://image.tmdb.org/t/p/w500/yXoG0GhT2Re2nvRdNaMqWSh31Re.jpg",
@@ -63,16 +59,6 @@
       "rating": "4 Stars",
       "review": "",
       "id": 26
-    },
-    {
-      "userId": 1,
-      "title": "Valley Uprising",
-      "watchStatusId": 3,
-      "poster": "https://image.tmdb.org/t/p/w500/oeiYsWFa3YtSwy2ovyviSJGZyRO.jpg",
-      "synapsis": "In the shady campgrounds of Yosemite valley, climbers carved out a counterculture lifestyle of dumpster-diving and wild parties that clashed with the conservative values of the National Park Service. And up on the walls, generation after generation has pushed the limits of climbing, vying amongst each other for supremacy on Yosemite's cliffs. \"Valley Uprising\" is the riveting, unforgettable tale of this bold rock climbing tradition in Yosemite National Park: half a century of struggle against the laws of gravity -- and the laws of the land.",
-      "rating": "5 Stars",
-      "review": "",
-      "id": 28
     },
     {
       "userId": 1,
@@ -85,16 +71,6 @@
       "id": 29
     },
     {
-      "userId": 2,
-      "title": "Sky Ladder: The Art of Cai Guo-Qiang",
-      "watchStatusId": 3,
-      "poster": "https://image.tmdb.org/t/p/w500/bYE9EZbplP8gbqaT1w9wsSW4n5c.jpg",
-      "synapsis": "Known for his spectacular pyrotechnic displays, Chinese artist Cai Guo-Qiang creates his most ambitious project yet: Sky Ladder, a visionary, explosive event that he pulls off in his hometown in China after 20 years of failed attempts.",
-      "rating": "2 Stars",
-      "review": "",
-      "id": 30
-    },
-    {
       "userId": 1,
       "title": "The Art of Flight",
       "watchStatusId": 3,
@@ -103,26 +79,6 @@
       "rating": "5 Stars",
       "review": "",
       "id": 33
-    },
-    {
-      "userId": 1,
-      "title": "David Attenborough: A Life on Our Planet",
-      "watchStatusId": 3,
-      "poster": "https://image.tmdb.org/t/p/w500/mxdqWYOm3KnQthzJdEwtWzJtc06.jpg",
-      "synapsis": "He knows our natural world like no other, and there’s never been a more urgent time to hear his story and vision for our future.",
-      "rating": "5 Stars",
-      "review": "",
-      "id": 34
-    },
-    {
-      "userId": 1,
-      "title": "Social Animals",
-      "watchStatusId": 3,
-      "poster": "https://image.tmdb.org/t/p/w500/45QgvkuwZF8mffzDcK3wZSpNpA0.jpg",
-      "synapsis": "Determined not to turn into her parents, or be drawn into any relationship longer than a one night stand, Zoe constantly struggles with her failing business and love life. Then she falls in love for the first time with Paul. But there's one problem: Paul is married.",
-      "rating": "5 Stars",
-      "review": "",
-      "id": 35
     },
     {
       "userId": 2,
@@ -137,12 +93,62 @@
     {
       "userId": 2,
       "title": "My Octopus Teacher",
-      "watchStatusId": 1,
+      "watchStatusId": 3,
       "poster": "https://image.tmdb.org/t/p/w500/u96gR99ZUtdmE3bAzASnjZqzioR.jpg",
       "synapsis": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+      "rating": "4 Stars",
+      "review": "This was great",
+      "id": 37
+    },
+    {
+      "userId": 2,
+      "title": "Sky Ladder: The Art of Cai Guo-Qiang",
+      "watchStatusId": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/bYE9EZbplP8gbqaT1w9wsSW4n5c.jpg",
+      "synapsis": "Known for his spectacular pyrotechnic displays, Chinese artist Cai Guo-Qiang creates his most ambitious project yet: Sky Ladder, a visionary, explosive event that he pulls off in his hometown in China after 20 years of failed attempts.",
       "rating": "",
       "review": "",
-      "id": 37
+      "id": 38
+    },
+    {
+      "userId": 1,
+      "title": "Icarus",
+      "watchStatusId": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+      "synapsis": "While investigating the furtive world of illegal doping in sports, director Bryan Fogel connects with renegade Russian scientist Dr. Grigory Rodchenkov—a pillar of his country’s “anti-doping” program. Over dozens of Skype calls, urine samples, and badly administered hormone injections, Fogel and Rodchenkov grow closer despite shocking allegations that place Rodchenkov at the center of Russia’s state-sponsored Olympic doping program.",
+      "rating": "",
+      "review": "",
+      "id": 39
+    },
+    {
+      "userId": 1,
+      "title": "Third Eye Spies",
+      "watchStatusId": 3,
+      "poster": "https://image.tmdb.org/t/p/w500/cSO0ZanWIr3sHfcnXbhjLrk2Ses.jpg",
+      "synapsis": "Two physicists discover psychic abilities are real only to have their experiments at Stanford co-opted by the CIA and their research silenced by the demands of secrecy. Yet, as both these 'remote viewers' and our audience learn, the 'more you hide something, the more it shines like a beacon in psychic space and this ancient truth can no longer be suppressed.' The true story of Russell Targ and America's cold war psychic spies, disclosed and declassified for the first time, with evidence presented by a Nobel Laureate, an Apollo Astronaut, and the military and scientific community that has been suppressed for nearly 30 years, now able to speak for the first time.",
+      "rating": "4 Stars",
+      "review": "Interesting info. Not the best quality, but the topic is fascinating",
+      "id": 40
+    },
+    {
+      "userId": 1,
+      "title": "Heal",
+      "watchStatusId": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/cUKnUVQuWjxgjfMU2wzWUwOqEFS.jpg",
+      "synapsis": "A documentary film that takes us on a scientific and spiritual journey where we discover that by changing one's perceptions, the human body can heal itself from any disease.",
+      "rating": "",
+      "review": "",
+      "id": 41
+    },
+    {
+      "userId": 1,
+      "title": "Cowspiracy: The Sustainability Secret",
+      "watchStatusId": 1,
+      "poster": "https://image.tmdb.org/t/p/w500/5rn3jsTgqQWPQRDof3eHT3wd500.jpg",
+      "synapsis": "Follow the shocking, yet humorous, journey of an aspiring environmentalist, as he daringly seeks to find the real solution to the most pressing environmental issues and true path to sustainability.",
+      "rating": "",
+      "review": "",
+      "id": 42
     }
   ],
   "categories": [
@@ -210,6 +216,36 @@
       "userId": 2,
       "name": "science",
       "id": 13
+    },
+    {
+      "userId": 1,
+      "name": "food",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "name": "psychology",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "name": "military",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "name": "sports",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "name": "psychology",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "name": "wellness",
+      "id": 19
     }
   ],
   "docCategories": [
@@ -229,19 +265,9 @@
       "id": 16
     },
     {
-      "documentaryId": 25,
-      "categoryId": 3,
-      "id": 17
-    },
-    {
       "documentaryId": 26,
       "categoryId": 3,
       "id": 18
-    },
-    {
-      "documentaryId": 28,
-      "categoryId": 1,
-      "id": 20
     },
     {
       "documentaryId": 29,
@@ -249,24 +275,9 @@
       "id": 21
     },
     {
-      "documentaryId": 30,
-      "categoryId": 7,
-      "id": 22
-    },
-    {
       "documentaryId": 33,
       "categoryId": 1,
       "id": 24
-    },
-    {
-      "documentaryId": 34,
-      "categoryId": 2,
-      "id": 25
-    },
-    {
-      "documentaryId": 35,
-      "categoryId": 9,
-      "id": 26
     },
     {
       "documentaryId": 36,
@@ -277,6 +288,31 @@
       "documentaryId": 37,
       "categoryId": 13,
       "id": 28
+    },
+    {
+      "documentaryId": 38,
+      "categoryId": 7,
+      "id": 29
+    },
+    {
+      "documentaryId": 39,
+      "categoryId": 3,
+      "id": 30
+    },
+    {
+      "documentaryId": 40,
+      "categoryId": 3,
+      "id": 31
+    },
+    {
+      "documentaryId": 41,
+      "categoryId": 18,
+      "id": 32
+    },
+    {
+      "documentaryId": 42,
+      "categoryId": 14,
+      "id": 33
     }
   ],
   "watchStatuses": [
